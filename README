@@ -1,0 +1,10 @@
+-- TO IMPORT INTO IntelliJ IDEA
+Run following command from root directory
+$ ./gradle cleanIdea idea
+
+In IDE: File -> Import Project
+Run tests
+
+-- TO RUN STANDALONE IN TERMINAL
+Run the following command from root directory
+$ ./gradlew test  
